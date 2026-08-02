@@ -2,7 +2,7 @@
 
 A spritesheet designed for Sokoban games.
 
-![The Great Badger](SimpleGreatBadger.png)
+![The Great Badger](SimpleGreatBadger.png?rev=1)
 
 ## Details
 
