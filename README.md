@@ -2,7 +2,7 @@
 
 A spritesheet designed for Sokoban games.
 
-![The Great Badger](SimpleGreatBadger.png?rev=1)
+![The Great Badger](SimpleGreatBadger.png?rev=2)
 
 ## Details
 
@@ -21,7 +21,7 @@ In 2011, the original skin was updated to lighter colors and [released](https://
 
 Simple Great Badger skin example:
 
-![Simple Great Badger skin example](SimpleGreatBadger-Example.png)
+![Simple Great Badger skin example](SimpleGreatBadger-Example.png?rev=2)
 
 I made the boxes look less bulky by reducing the edge width.
 
@@ -29,7 +29,7 @@ I reused the original walls but repainted them in a simpler style to reduce thei
 
 I added the [Great Badger character](https://github.com/carlos-montiers/sokoban-great-badger), which was designed specifically to work on dark gray backgrounds.
 
-The skin uses the exact colors for the boxes and floor from the original skin in the 2003 program.
+The skin retains the original box and floor colors from the 2003 program, while the box edge colors have been updated.
 
 ## License
 
